@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b2512448a5c4b438fec2de2468fa2eb, type: 3}
+  m_Name: Wheel 2
+  m_EditorClassIdentifier: 
+  Question: What to watch today?
+  IsCustom: 0
+  Wheel: {fileID: 21300000, guid: bc7993ceb8b5b4a7391410a1709fd6f4, type: 3}
+  ChoicePreview: {fileID: 21300000, guid: 16a8c8864bca445bd93995a516c966c7, type: 3}
+  Head: {fileID: 21300000, guid: fb9eb252b66ab402b937a2fb7dd11382, type: 3}
+  WheelSectors:
+  - Icon: {fileID: 0}
+    Label: Baseball
+  - Icon: {fileID: 0}
+    Label: WPT
+  - Icon: {fileID: 0}
+    Label: Football
+  - Icon: {fileID: 0}
+    Label: PokerStars
+  - Icon: {fileID: 0}
+    Label: Film
+  - Icon: {fileID: 0}
+    Label: Tennis
+  - Icon: {fileID: 0}
+    Label: EPT
+  - Icon: {fileID: 0}
+    Label: Hokey
+  - Icon: {fileID: 0}
+    Label: Soccer
+  - Icon: {fileID: 0}
+    Label: WSOP

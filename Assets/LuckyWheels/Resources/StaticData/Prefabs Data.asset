@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f8eae1dace4434aa94eb98cf6fef8d, type: 3}
+  m_Name: Prefabs Data
+  m_EditorClassIdentifier: 
+  RootCanvasPrefab: {fileID: 8927380304441350616, guid: 17f494cd2bfab493fa28ae48dd62b1a8, type: 3}
+  SettingsViewPrefab: {fileID: 7259608848415153135, guid: 8e930114528ba492c9a0f5fd76975fe9, type: 3}
+  TopPanelViewPrefab: {fileID: 6803183436116408239, guid: b0eaf6692852e4d2fb6025870ccd13e8, type: 3}
+  PopupPrefab: {fileID: 2086646106401835288, guid: fd13f9a59425b41ec83904020e1619ea, type: 3}
+  AnimatedHeadPrefab: {fileID: 8941266955809730194, guid: aed0d324a6c534e9daca0fa91b27b785, type: 3}
+  MainMenuScreenViewPrefab: {fileID: 2715223385868815611, guid: d5d71d10d3b1748d19129beb51a7283e, type: 3}
+  CreateWheelScreenViewPrefab: {fileID: 8514847249597714490, guid: 23eef08fd0f894d6888580467e89bd00, type: 3}
+  SelectWheelScreenViewPrefab: {fileID: 4152532426281786291, guid: a9340113cb2cf454ebac6a30e8b2f6d4, type: 3}
+  SpinWheelScreenViewPrefab: {fileID: 2966029984047756498, guid: fecdc1bf4ee074ba1952d9d3973a1535, type: 3}
+  WheelViewPrefab: {fileID: 1172461902757955652, guid: 160be82451391f6448834ec65286e007, type: 3}
+  WheelSectorViewPrefab: {fileID: 1541982051980310772, guid: a10fef7bc23b5a64a929387e97c9b936, type: 3}
+  StatisticsScreenPrefab: {fileID: 5489103705682438175, guid: bc67e3ebf0c704ce3a2e1c3e3b6cf4b9, type: 3}
+  SpinStatisticViewPrefab: {fileID: 7002635356589667485, guid: b13e7c8187dc0429d8a72c21d1d24a18, type: 3}

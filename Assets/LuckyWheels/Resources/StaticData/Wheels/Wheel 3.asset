@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b2512448a5c4b438fec2de2468fa2eb, type: 3}
+  m_Name: Wheel 3
+  m_EditorClassIdentifier: 
+  Question: What is my lucky number today?
+  IsCustom: 0
+  Wheel: {fileID: 21300000, guid: f979119084a454d80a838affda68e0d5, type: 3}
+  ChoicePreview: {fileID: 21300000, guid: db82d9d711f27418e97f808ff8285f0e, type: 3}
+  Head: {fileID: 21300000, guid: c85d93f207d8d49f5b1eb4fbadf097a6, type: 3}
+  WheelSectors:
+  - Icon: {fileID: 0}
+    Label: 1
+  - Icon: {fileID: 0}
+    Label: 7
+  - Icon: {fileID: 0}
+    Label: 21
+  - Icon: {fileID: 0}
+    Label: 0
+  - Icon: {fileID: 0}
+    Label: 9
+  - Icon: {fileID: 0}
+    Label: 3
+  - Icon: {fileID: 0}
+    Label: 36
+  - Icon: {fileID: 0}
+    Label: 17
+  - Icon: {fileID: 0}
+    Label: 8
+  - Icon: {fileID: 0}
+    Label: 5
